@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WCG Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-28 12:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: crille\n"
+"Language-Team: crille\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wcg_widget.php:39
+msgid "Allows the user to show WCG badges and statistics in sidebar"
+msgstr "Zeigt deine WCG-Badges und Statistiken in der Sidebar an"
+
+#: wcg_widget.php:105
+msgid "allow_url_fopen is off in your php.ini."
+msgstr "allow_url_fopen ist in deiner php.ini ausgeschaltet."
+
+#: wcg_widget.php:109
+msgid "Your PHP has no SimpleXML extension."
+msgstr "Dein PHP hat keine SimpleXML Erweiterung."
+
+#: wcg_widget.php:114
+#: wcg_widget.php:139
+#, php-format
+msgid "The directory %s is not available."
+msgstr "Das Verzeichnis %s ist nicht verfügbar."
+
+#: wcg_widget.php:120
+#, php-format
+msgid "The directory %s is not writable."
+msgstr "Das Verzeichnis %s ist nicht beschreibbar."
+
+#: wcg_widget.php:126
+#, php-format
+msgid "The directory %s is not executable."
+msgstr "Das Verzeichnis %s ist nicht ausführbar."
+
+#: wcg_widget.php:133
+#, php-format
+msgid "The file %s is not writable."
+msgstr "Die Datei %s ist nicht beschreibbar."
+
+#: wcg_widget.php:145
+#, php-format
+msgid "The file %s is not available."
+msgstr "Die Datei %s ist nicht verfügbar"
+
+#: wcg_widget.php:164
+msgid "WCG error"
+msgstr "WCG Fehler"
+
+#: wcg_widget.php:170
+#: wcg_widget.php:337
+#, php-format
+msgid "Unable to copy %s to %s."
+msgstr "Konnte %s nicht zu %s kopieren."
+
+#: wcg_widget.php:178
+#, php-format
+msgid "The wcg file %s cannot be parsed by SimpleXML."
+msgstr "Die WCG-Datei %s konnte nicht durch SimpleXML geparst werden."
+
+#: wcg_widget.php:186
+#, php-format
+msgid "The wcg file %s is not available."
+msgstr "Die WCG-Datei %s ist nicht verfügbar."
+
+#: wcg_widget.php:386
+msgid "Error"
+msgstr "Fehler"
+
+#: wcg_widget.php:394
+#, php-format
+msgid "Warning: %s was not updated in the last 14 days."
+msgstr "Warnung: %s wurde in den letzten 14 Tagen nicht aktualisiert."
+
+#: wcg_widget.php:488
+msgid "World Community Grid"
+msgstr "World Community Grid"
+
+#: wcg_widget.php:489
+msgid "[MemberName] calculated [TotalResults] results & got the following badges:<br />"
+msgstr "[MemberName] berechnete [TotalResults] Ergebnisse & erhielt folgende Badges:<br />"
+
+#: wcg_widget.php:490
+msgid "<a href=\"[ProjectResearchUrl]\" title=\"[BadgeDescription]\"><img src=\"[BadgePictureUrl]\" alt=\"[BadgeDescription]\"/></a>"
+msgstr "<a href=\"[ProjectResearchUrl]\" title=\"[BadgeDescription]\"><img src=\"[BadgePictureUrl]\" alt=\"[BadgeDescription]\"/></a>"
+
+#: wcg_widget.php:491
+msgid "<br />WCG - technology solving problems - <a href=\"http://www.worldcommunitygrid.org/reg/viewRegister.do\">register</a> & help."
+msgstr "<br />WCG - technology solving problems - <a href=\"http://www.worldcommunitygrid.org/reg/viewRegister.do\">Registriere Dich</a> & Helfe."
+
+#: wcg_widget.php:526
+msgid "Title"
+msgstr "Titel"
+
+#: wcg_widget.php:528
+msgid "WCG Member Name"
+msgstr "WCG Mitgliedsname"
+
+#: wcg_widget.php:530
+msgid "WCG Verification Code"
+msgstr "WCG Verifikationscode"
+
+#: wcg_widget.php:530
+msgid "see <a href=\"https://secure.worldcommunitygrid.org/ms/viewMyProfile.do\">your profile</a>)"
+msgstr "siehe <a href=\"https://secure.worldcommunitygrid.org/ms/viewMyProfile.do\">dein Profil</a>)"
+
+#: wcg_widget.php:539
+msgid "Choose a template"
+msgstr "Wähle eine Vorlage"
+
+#: wcg_widget.php:559
+msgid "No Template"
+msgstr "Keine Vorlage"
+
+#: wcg_widget.php:559
+msgid "use the HTML/Code input fields"
+msgstr "benutze die HTML/Code Eingabefelder"
+
+#: wcg_widget.php:583
+msgid "Upload your template for other users"
+msgstr "Lade deine Vorlage für andere Benutzer hoch"
+
+#: wcg_widget.php:584
+msgid "What HTML should precede the badge items"
+msgstr "HTML vor den Badges"
+
+#: wcg_widget.php:586
+msgid "HTML of badge items"
+msgstr "HTML der Badges"
+
+#: wcg_widget.php:588
+msgid "What HTML should follow the badge items"
+msgstr "HTML nach den Badges"
+
+#: wcg_widget.php:598
+#: wcg_widget.php:610
+msgid "userfield for badges"
+msgstr "Benutzerfeld für Badges"
+
+#: wcg_widget.php:620
+msgid "Show (more) userfields"
+msgstr "Zeige (mehr) Benutzerfelder an"
+
+#~ msgid "Unable to copy %s to %s"
+#~ msgstr "Konnte %s nicht zu %s kopieren"

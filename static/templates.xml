@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Templates>
+	<Template>
+		<Id>1</Id>
+		<Name>First by crille</Name>
+		<SenderUrl>http://www.freakcommander.de</SenderUrl>
+		<PreviewFileName>first.png</PreviewFileName>
+		<Language>english</Language>
+		<AboveHtml>[MemberName] calculated [TotalResults] results &amp;amp; got the following badges:&lt;br /&gt;</AboveHtml>
+		<BadgeHtml>&lt;a href=&quot;[ProjectResearchUrl]&quot; title=&quot;[BadgeDescription]&quot;&gt;&lt;img src=&quot;[BadgePictureUrl]&quot; alt=&quot;[BadgeDescription]&quot;/&gt;&lt;/a&gt;</BadgeHtml>
+		<BelowHtml>&lt;br /&gt;WCG - technology solving problems - &lt;a href=&quot;http://www.worldcommunitygrid.org/reg/viewRegister.do&quot;&gt;register&lt;/a&gt; &amp;amp; help.</BelowHtml>
+	</Template>
+	<Template>
+		<Id>2</Id>
+		<Name>List by crille</Name>
+		<SenderUrl>http://www.freakcommander.de</SenderUrl>
+		<PreviewFileName>list.png</PreviewFileName>
+		<Language>english</Language>
+		<AboveHtml>[MemberName] registered [RegisterDate d.m.Y] and crunched [AverageResultsPerDay] results per day. [MemberName] helped these projects:&lt;br /&gt;&lt;ul&gt;</AboveHtml>
+		<BadgeHtml>&lt;li&gt;&lt;a href=&quot;[ProjectResearchUrl]&quot;&gt;[ProjectName]&lt;/a&gt;&lt;/li&gt;</BadgeHtml>
+		<BelowHtml>&lt;/ul&gt;[MemberName] is a member of &lt;a href=&quot;http://www.worldcommunitygrid.org/team/viewTeamInfo.do?teamId=[TeamId]&quot;&gt;[TeamName]&lt;/a&gt;.&lt;br /&gt;WCG - technology solving problems - &lt;a href=&quot;http://www.worldcommunitygrid.org/reg/viewRegister.do&quot;&gt;register&lt;/a&gt; &amp;amp; help.</BelowHtml>
+	</Template>
+</Templates>
+
+<!--
+	<Template>
+		<Id></Id>
+		<Name></Name>
+		<SenderUrl></SenderUrl>
+		<PreviewFileName></PreviewFileName>
+		<Language></Language>
+		<AboveHtml></AboveHtml>
+		<BadgeHtml></BadgeHtml>
+		<BelowHtml></BelowHtml>
+	</Template>
+-->
